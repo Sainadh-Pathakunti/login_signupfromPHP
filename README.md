@@ -39,9 +39,14 @@ Link: http://localhost/phpmyadmin/
 
 iii)Next, import the .sql file 
 
+Step 3: Database connection
+================
+
+i) open db.php file
+2)check your connection username and password
 
 
-Step 3: Testing
+Step 4: Testing
 ================
 
 i)	Test the system:
